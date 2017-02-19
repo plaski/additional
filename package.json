@@ -1,0 +1,30 @@
+{
+  "name": "dodatkowy",
+  "version": "0.1.0",
+  "description": "dodatkowy projekt kodilla",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plaski/additional.git"
+  },
+  "keywords": [
+    "projekt",
+    "kodilla",
+    "dodatkowy"
+  ],
+  "author": "maciek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plaski/additional/issues"
+  },
+  "homepage": "https://github.com/plaski/additional#readme"
+}
